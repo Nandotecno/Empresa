@@ -1,0 +1,17 @@
+IMPORTANTE:
+
+Para executar adequadamente o(s) arquivo(s) de projeto criado(s) pelo instrutor no Power BI Desktop (extensão .pbix) e disponibilizado(s) para download no material de apoio desta aula, é necessário atualizar a localização da base de dados utilizada no projeto. Caso contrário, uma mensagem será exibida, indicando que a base de dados não foi localizada pelo projeto.
+ 
+Assim que você realizar o download do projeto em sua máquina, realize os seguintes passos:
+
+1.	Abra o projeto;
+2.	No Power Query Editor, vá até a guia Página Inicial e clique em Configurações da fonte de dados;
+3.	Clique em Alterar fonte...;
+4.	No campo Caminho dos dados, clique em Procurar...;
+5.	Localize e selecione a base de dados desejada;
+6.	Clique em OK;
+7.	Clique em Fechar;
+8.	Ainda em Página Inicial, clique em Atualizar Visualização;
+9.	Clique em Fechar e Aplicar para aplicar as mudanças na consulta.
+
+Obs.: Este procedimento, demonstrado no primeiro vídeo da Aula 08 – Obtendo dados XML, deve ser realizado sempre que houver alteração do local da base de dados. Caso você mesmo crie seus arquivos de projeto no decorrer das aulas, seguindo as demonstrações feitas pelo instrutor, a execução dos passos acima não é necessária.
